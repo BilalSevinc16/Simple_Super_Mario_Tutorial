@@ -1,16 +1,11 @@
-# simple_super_mario_tutorial
+# Simple Super Mario Tutorial
 
-A new Flutter project.
+Simple Super Mario Tutorial
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Super_Mario_Tutorial/assets/146417248/9eb94153-a0cf-46be-9fdc-536abd532b2e)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Super_Mario_Tutorial/assets/146417248/a310e62c-70e7-4cb4-9d72-c30d8c6637d4)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Super_Mario_Tutorial/assets/146417248/fecd5444-cf6a-48ec-a60c-38bf8a5b0b70)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Simple_Super_Mario_Tutorial/assets/146417248/c8468843-9449-4e51-87b3-ebb2e4eafd10)
